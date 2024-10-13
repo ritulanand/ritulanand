@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Resume Project**
 
-- 🌱 I’m currently learning **React JS, Redux-tookit, RTK Query**
+- 🌱 I’m currently learning **Data Structures and Algorithms, React JS, Redux-tookit, RTK Query**
 
 - 👯 I’m looking to collaborate on **HTML, CSS, Javascript, React JS**
 
