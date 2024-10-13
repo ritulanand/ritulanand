@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS, Redux-tookit, RTK Query**
 
-- 👯 I’m looking to collaborate on **HTML, CSS, Javascript**
+- 👯 I’m looking to collaborate on **HTML, CSS, Javascript, React JS**
 
 - 💬 Ask me about **HTML, CSS, Javscript, React JS**
 
