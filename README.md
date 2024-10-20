@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritulanand&label=Profile%20views&color=0e75b6&style=flat" alt="ritulanand" /> </p>
 
-- 🔭 I’m currently working on **Resume Project**
+- 🔭 I’m currently working on **Javascript Project**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, React JS, Redux-tookit, RTK Query**
 
