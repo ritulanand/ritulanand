@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **HTML, CSS, Javascript, React JS**
 
-- 💬 Ask me about **HTML, CSS, Javscript, React JS**
+- 💬 Ask me about **HTML, CSS, Javascript, React JS**
 
 - 📫 How to reach me **ritulanand007@gmail.com**
 
